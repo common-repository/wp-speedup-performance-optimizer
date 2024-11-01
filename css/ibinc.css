@@ -1,0 +1,20 @@
+.hints {
+	border: 1px solid #999;
+	background-color: #EDEDED;
+	padding: 5px;
+	margin-top: 10px;
+	display:none;
+}
+.form-table {
+	background-color: #fff;
+	border: 1px solid #999;
+}
+.form-table th {
+	text-align: right;
+	font-weight: bold;
+}
+.more-help{
+	color:red;
+	cursor:pointer;
+	padding-left:5px;
+}			
